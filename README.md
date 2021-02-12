@@ -12,7 +12,7 @@ donde se explica multiples elementos del lenguaje Python
 	- OrderedDict: Diccionarios con orden
 	- namedtuple: Crear tuplas facilmente. Interesante para crear clases rapidamente
 + DateTime: Manejo de fechas
-* Funciones, parametros
++ Funciones y parametros
 + Funciones decorativas
 + Funciones lambda
 + Recursividad
